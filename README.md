@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and mastering C, C++, Python, JavaScript, Css...;
 - 💞️ I’m looking to collaborate on projects in general, for experience in any areas will help me code better;
 - 📫 How to reach me:
+- victorcarvalho.ru@hotmail.com
 - https://www.linkedin.com/in/victor-carvalho-b773b1238/
 - https://wa.me/5562996185933
 - 🗣️ Languages I am familiar with: 🇧🇷/🇵🇹, 🇩🇪, 🇬🇧/🇺🇸, 🇷🇺, 🇪🇸;
